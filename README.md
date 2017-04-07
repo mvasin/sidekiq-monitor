@@ -1,8 +1,7 @@
 # Sidekiq monitor in Docker container
 
 ## How to use
-Run manually: `docker run -p <put-your-port-here>:9292 vasin/sidekiq-monitor`
-Or run from `docker-compose.yml`:
+Run manually: `docker run -p <put-your-port-here>:9292 vasin/sidekiq-monitor`, or run from `docker-compose.yml`:
 
 ```
 version: '3'
