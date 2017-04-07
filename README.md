@@ -13,7 +13,7 @@ services:
       - "<put-your-port-here>:9292"
 ```
 
-Now sidekiq monitor is accesseble on your host machine on port `<put-your-port-here>`.
+Now sidekiq monitor is accessible on your host machine on port `<put-your-port-here>`.
 
 ## Docker image
 Docker hub url: https://hub.docker.com/r/vasin/sidekiq-monitor/
